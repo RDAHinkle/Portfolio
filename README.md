@@ -8,3 +8,6 @@ This repository serves as a public portfolio for Rebecca Hinkle.
 3. [eLearning Inside Measuring Student Engagement](https://news.elearninginside.com/catchon-launches-tool-to-measure-student-engagement-with-online-learning/)
 4. [The Concordian The Future of Technology](http://www.concordianonline.com/news/view.php/1024016/The-Future-of-Technology)
 5. [The Concordian Epi-Pen Price Increase](http://www.concordianonline.com/news/view.php/1024476/Epipen-Price-Raise-Hurting-Those-Who-Nee)
+
+### LinkedIn
+1. [LinkedIn Profile](www.linkedin.com/in/rebecca-hinkle-1a4b79166)
