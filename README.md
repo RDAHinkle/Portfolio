@@ -10,4 +10,4 @@ This repository serves as a public portfolio for Rebecca Hinkle.
 5. [The Concordian Epi-Pen Price Increase](http://www.concordianonline.com/news/view.php/1024476/Epipen-Price-Raise-Hurting-Those-Who-Nee)
 
 ### LinkedIn
-1. [LinkedIn Profile](www.linkedin.com/in/rebecca-hinkle-1a4b79166)
+1. [LinkedIn Profile](https://www.linkedin.com/public-profile/settings?trk=d_flagship3_profile_self_view_public_profile)
